@@ -3,4 +3,46 @@
 Add styles or override variables from the theme here.
 
 */
+.embed-responsive {
+    width: 100% !important;
+}
 
+.td-max-width-on-larger-screens, .td-content > pre, .td-content > .highlight, .td-content > .lead, .td-content > h1, .td-content > h2, .td-content > ul, .td-content > ol, .td-content > p, .td-content > blockquote, .td-content > dl dd, .td-content .footnotes, .td-content > .alert {
+    width: 100% !important;
+    max-width: 100% !important;   
+}
+
+.doc-figure {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+  .doc-figure > img {
+    border: 1px solid #ddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+  .doc-figure > figcaption {
+    border: 1px solid #ddd;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+
+  .doc-figure > figcaption > p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    padding-bottom: 0.1rem;
+  }
+
+// color overrides
+$primary: #000000;
+$info: #67beb9;

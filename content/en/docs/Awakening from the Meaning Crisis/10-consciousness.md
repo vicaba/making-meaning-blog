@@ -19,9 +19,13 @@ description: >
 
 You don't know your consciousness how you know other things. You know your conscousness by being your consciousness. You *participate* in your consciousness.
 
-## What is consciousness? How it emerges out of matter?
+## Nature of consciousness
 
-## What is the function of consciousness?
+### Integration Information Theory
+
+How powerfully integrated pieces of information in your brain are. How much pieces of information are dependent, interacting and affecting other pieces of information in your brain.  The more tightly the integration, the more powerful the processing. Consciousness seems to do that to realize relevance.
+
+## Function of consciousness
 
 ### Global Workspace Theory
 
@@ -30,7 +34,18 @@ You don't know your consciousness how you know other things. You know your consc
 3. Transform them in a way that is relevant
 4. Broadcast the changes back
 
-This machinery/structure is trying to solve the "frame problem". It is trying to zero-in relevant information, as the amount of information available in any given scenario is astronomically vast.
+This machinery/structure is trying to solve the "frame problem". As the amount of information available in any given scenario is astronomically vast, consciousness is trying to zero-in relevant information.
 
-* Huge amount of information in the memory and in the present environment
-* There are multiple ways to put them together
+* Relevant information from our mind.
+* Relevant information from the environment.
+* Relevant information from the possible relations between the information from the mind and the environment.
+
+{{< figure class="doc-figure" src="../consciousness-global_worksapce_theory.svg" caption="Global Workspace Theory by John Vervaeke" >}}
+
+## Then, what consciousness does?
+
+It seems to be a way in which we can coordinate attention and other related abilities of awareness so as to optimize how insightfully we can make sense of our worlds. That's why we need consciousness for complex situations that require insight ---for problems and situations that have a high degree of novelty or challenge in them. We can reduce consciousness when the problem has become very well-defined and doesn't have a high degree of novelty and doesn't require insight.
+
+{{% alert color="warning" title="Core function of consciousness"%}}
+The core function of consciousness seems te be to realize relevance.
+{{% /alert %}}
